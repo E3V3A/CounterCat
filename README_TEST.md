@@ -1,8 +1,11 @@
 #  Table of Contents
 
+|                      |                      |
 |:-------------------- |:-------------------- |
-* [Introduction](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#introduction) |
-* [IMSI-Catchers](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#want-to-know-what-imsi-catchers-look-like)|
+| * [Introduction](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#introduction) | |
+| * [IMSI-Catchers](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#want-to-know-what-imsi-catchers-look-like)| |
+
+
 * [Project Goals](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#this-project)|
 * [Limitations](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#other-projects-not-this-one)|
 * [Roadmap](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector#development-roadmap)|
