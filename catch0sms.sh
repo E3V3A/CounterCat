@@ -61,7 +61,7 @@
 # I/GsmSmsDispatcher( 1195): [DirectedSMS] Start1:
 # I/GsmSmsDispatcher( 1195): [DirectedSMS] End1....:
 # D/GsmSmsDispatcher( 1195): [DirectedSMS] Checking End...
-# D/WAP PUSH( 1195): Rx: 7c0603beaf848c969831323334008d93be3132333400
+# D/WAP PUSH( 1195): Rx: 7c06xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx00
 # V/TP/MmsSmsProvider( 1195): query,matched:4
 # D/TP/MmsSmsProvider( 1195): getThreadId: recipientIds (selectionArgs) =294
 # D/TP/MmsSmsProvider( 1195): match 4:Elapsed time : 15.596 ms
